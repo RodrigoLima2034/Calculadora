@@ -61,7 +61,7 @@ cd nome-da-pasta-da-calculadora
 )
 
 ## **🤝 Autor**  
-LinkedIn: [Seu Perfil do LinkedIn]  
+LinkedIn: [www.linkedin.com/in/rodrigo-pereira-lima-268305170]  
 GitHub: [https://github.com/RodrigoLima2034](https://github.com/RodrigoLima2034)
 
 Desenvolvido por Rodrigo Lima.  
